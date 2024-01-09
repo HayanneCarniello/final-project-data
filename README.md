@@ -16,7 +16,7 @@ No desenvolvimento do modelo, ao testarmos o valor R² obtivemos valores pouco s
 
 Os dados são uma amostra dos dados extraídos do Marketing Carrier On-Time Performance (Começando em January 2018) extraídos na TranStats data library e do kaggle:
 
-Clique Aqui 👉 [Dados Kaggl](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022 )
+Clique Aqui 👉 [Dados Kaggle](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022)
 
 
 
