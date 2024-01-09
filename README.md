@@ -20,13 +20,22 @@ Clique Aqui 👉 [Dados Kaggle](https://www.kaggle.com/datasets/robikscube/fligh
 
 
 
+
+
 **Squad Completa:**
 
-Amanda Veloso
-Carolina Vila-Nova
-Failiny Oliveira
 Hayanne Carniello
+
+Amanda Veloso
+
+Carolina Vila-Nova
+
+Failiny Oliveira
+
 Layla Freire
+
 Letícia Baptista
+
 Vitoria Torres
+
 Wanessa Neves
